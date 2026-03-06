@@ -1,73 +1,65 @@
-# Welcome to your Lovable project
+# 🎧 Nanda
 
-## Project info
+**Producer • Composer • Songwriter • Artist**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Creating sound, shaping emotion, and building atmosphere through music.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## About
 
-**Use Lovable**
+Nanda is a music producer and composer focused on crafting modern soundscapes that blend rhythm, emotion, and atmosphere.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+His work explores different styles including:
 
-Changes made via Lovable will be committed automatically to this repo.
+* R&B
+* Darkwave
+* Electronic
+* Cinematic production
 
-**Use your preferred IDE**
+Through production, composition, and songwriting, Nanda focuses on delivering music that feels immersive, energetic, and expressive.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Listen
 
-Follow these steps:
+Music available on streaming platforms:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* Spotify
+* Apple Music
+* Deezer
+* SoundCloud
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Listeners can access the latest releases and productions through these platforms.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## Production Tools
 
-**Edit a file directly in GitHub**
+Studio tools used in the production process:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+* **FL Studio**
+* **Waves Audio**
+* **Arturia**
 
-**Use GitHub Codespaces**
+These tools help shape the sound design, mixing, and overall production quality.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## Music Identity
 
-This project is built with:
+Producer
+Composer
+Songwriter
+Artist
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## Contact
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Instagram
+Email
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© Nanda
