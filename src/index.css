@@ -113,3 +113,19 @@
 .waveform-bar {
   animation: waveform 1.2s ease-in-out infinite;
 }
+
+/* logo yang boleh berubah */
+
+.tool-logo-mono{
+  transition: filter 0.3s ease;
+}
+
+/* LIGHT MODE → hitam */
+:root .tool-logo-mono{
+  filter: brightness(0);
+}
+
+/* DARK MODE → putih */
+.dark .tool-logo-mono{
+  filter: brightness(0) invert(1);
+}
