@@ -42,7 +42,7 @@ export const Hero = () => {
 
             <ScrollReveal delay={0.2}>
               <div className="flex flex-wrap gap-2 mb-6">
-                {["prodkhalid.flp", "Composer", "Artist"].map((tag) => (
+                {["Composer", "Songwriter", "Musician", "Artist"].map((tag) => (
                   <span
                     key={tag}
                     className="px-4 py-1.5 text-sm font-medium rounded-full neon-border bg-secondary/50 text-foreground"
@@ -57,15 +57,6 @@ export const Hero = () => {
               <p className="text-lg text-muted-foreground max-w-md mb-8">
                 Crafting soundscapes and producing emotion.
               </p>
-            </ScrollReveal>
-
-            <ScrollReveal delay={0.4}>
-              <button
-                onClick={() => scrollTo("streams")}
-                className="px-8 py-3.5 rounded-lg bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity glow-card"
-              >
-                🎧 Listen to my music
-              </button>
             </ScrollReveal>
           </div>
 
